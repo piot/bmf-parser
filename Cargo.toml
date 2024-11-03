@@ -1,0 +1,12 @@
+[package]
+name = "bmf-parser"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "read BMFont binary files"
+repository = "https://github.com/piot/bmf-parser"
+categories = ["game-development"]
+keywords = ["game", "font", "bmfont"]
+
+[dependencies]
+byteorder = "1.4"
